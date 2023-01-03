@@ -1,0 +1,12 @@
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.exe
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.pdb
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.BL.dll
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\bin\Debug\BasicTextEditor.BL.pdb
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csprojAssemblyReference.cache
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.MainForm.resources
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.Properties.Resources.resources
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csproj.GenerateResource.cache
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.csproj.CopyComplete
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.exe
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor\obj\Debug\BasicTextEditor.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\bin\Debug\BasicTextEditor.BL.dll
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\bin\Debug\BasicTextEditor.BL.pdb
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\obj\Debug\BasicTextEditor.BL.csprojAssemblyReference.cache
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\obj\Debug\BasicTextEditor.BL.csproj.CoreCompileInputs.cache
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\obj\Debug\BasicTextEditor.BL.dll
+C:\Users\Elishai\source\repos\BasicTextEditor\BasicTextEditor.BL\obj\Debug\BasicTextEditor.BL.pdb
